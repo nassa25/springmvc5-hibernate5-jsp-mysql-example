@@ -1,0 +1,15 @@
+net\springmvc\gestionbibliotech\service\LecteurService.class
+net\springmvc\gestionbibliotech\dao\LivreDAOImpl.class
+net\springmvc\gestionbibliotech\dao\LecteurDAO.class
+net\springmvc\gestionbibliotech\entity\Lecteur.class
+net\springmvc\gestionbibliotech\service\LivreService.class
+net\springmvc\gestionbibliotech\config\AppContext.class
+net\springmvc\gestionbibliotech\service\LecteurServiceImpl.class
+net\springmvc\gestionbibliotech\service\LivreServiceImpl.class
+net\springmvc\gestionbibliotech\dao\LivreDAO.class
+net\springmvc\gestionbibliotech\controller\LecteurController.class
+net\springmvc\gestionbibliotech\controller\LivreController.class
+net\springmvc\gestionbibliotech\entity\Livre.class
+net\springmvc\gestionbibliotech\dao\LecteurDAOImpl.class
+net\springmvc\gestionbibliotech\config\AppInitializer.class
+net\springmvc\gestionbibliotech\config\WebMvcConfig.class
